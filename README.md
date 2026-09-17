@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/manyayadav1128-cloud/Leetcode-submission/tree/master/0053-maximum-subarray) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/manyayadav1128-cloud/Leetcode-submission/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0724-find-pivot-index](https://github.com/manyayadav1128-cloud/Leetcode-submission/tree/master/0724-find-pivot-index) |
+| [1672-richest-customer-wealth](https://github.com/manyayadav1128-cloud/Leetcode-submission/tree/master/1672-richest-customer-wealth) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -23,4 +24,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/manyayadav1128-cloud/Leetcode-submission/tree/master/0053-maximum-subarray) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/manyayadav1128-cloud/Leetcode-submission/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
