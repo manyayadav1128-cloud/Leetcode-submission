@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/manyayadav1128-cloud/Leetcode-submission/tree/master/0066-plus-one) |
 | [0217-contains-duplicate](https://github.com/manyayadav1128-cloud/Leetcode-submission/tree/master/0217-contains-duplicate) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/manyayadav1128-cloud/Leetcode-submission/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0485-max-consecutive-ones](https://github.com/manyayadav1128-cloud/Leetcode-submission/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/manyayadav1128-cloud/Leetcode-submission/tree/master/0724-find-pivot-index) |
 | [1672-richest-customer-wealth](https://github.com/manyayadav1128-cloud/Leetcode-submission/tree/master/1672-richest-customer-wealth) |
 ## Prefix Sum
