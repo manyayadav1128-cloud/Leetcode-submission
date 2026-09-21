@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/manyayadav1128-cloud/Leetcode-submission/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/manyayadav1128-cloud/Leetcode-submission/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/manyayadav1128-cloud/Leetcode-submission/tree/master/0066-plus-one) |
 | [0217-contains-duplicate](https://github.com/manyayadav1128-cloud/Leetcode-submission/tree/master/0217-contains-duplicate) |
@@ -32,11 +33,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/manyayadav1128-cloud/Leetcode-submission/tree/master/0048-rotate-image) |
 | [0867-transpose-matrix](https://github.com/manyayadav1128-cloud/Leetcode-submission/tree/master/0867-transpose-matrix) |
 | [1672-richest-customer-wealth](https://github.com/manyayadav1128-cloud/Leetcode-submission/tree/master/1672-richest-customer-wealth) |
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/manyayadav1128-cloud/Leetcode-submission/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/manyayadav1128-cloud/Leetcode-submission/tree/master/0066-plus-one) |
 ## Sorting
 |  |
