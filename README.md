@@ -52,4 +52,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/manyayadav1128-cloud/Leetcode-submission/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/manyayadav1128-cloud/Leetcode-submission/tree/master/0867-transpose-matrix) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/manyayadav1128-cloud/Leetcode-submission/tree/master/0125-valid-palindrome) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/manyayadav1128-cloud/Leetcode-submission/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
