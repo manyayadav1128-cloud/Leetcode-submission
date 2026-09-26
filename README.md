@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/manyayadav1128-cloud/Leetcode-submission/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/manyayadav1128-cloud/Leetcode-submission/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/manyayadav1128-cloud/Leetcode-submission/tree/master/0066-plus-one) |
+| [0209-minimum-size-subarray-sum](https://github.com/manyayadav1128-cloud/Leetcode-submission/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/manyayadav1128-cloud/Leetcode-submission/tree/master/0217-contains-duplicate) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/manyayadav1128-cloud/Leetcode-submission/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/manyayadav1128-cloud/Leetcode-submission/tree/master/0485-max-consecutive-ones) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/manyayadav1128-cloud/Leetcode-submission/tree/master/0209-minimum-size-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/manyayadav1128-cloud/Leetcode-submission/tree/master/0724-find-pivot-index) |
 ## Hash Table
 |  |
@@ -68,4 +70,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/manyayadav1128-cloud/Leetcode-submission/tree/master/0014-longest-common-prefix) |
+## Binary Search
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/manyayadav1128-cloud/Leetcode-submission/tree/master/0209-minimum-size-subarray-sum) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/manyayadav1128-cloud/Leetcode-submission/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
